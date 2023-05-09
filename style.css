@@ -55,7 +55,7 @@ body {
     top: 200px;
     left: 100px;
     width: 350px;
-    height: 200px;
+    height: 225px;
     box-shadow: 0 0 10px #000;
 }
 .group-trips {
@@ -64,7 +64,7 @@ body {
     top: 200px;
     left: 550px;
     width: 350px;
-    height: 200px;
+    height: 225px;
     box-shadow: 0 0 10px #000;
 }
 .discount-flights {
@@ -73,15 +73,53 @@ body {
     top: 200px;
     left: 1000px;
     width: 350px;
-    height: 200px;
+    height: 225px;
     box-shadow: 0 0 10px #000;
 }
 .about-us {
     background-color: white;
     position: absolute;
-    top: 450px;
+    top: 475px;
     left: 50px;
     width: 1350px;
-    height: 200px;
+    height: 225px;
     box-shadow: 0 0 10px #000;
+}
+.box-title {
+    font: 700 20px arial;
+    text-align: center;
+}
+.main-text {
+    font: 18px arial;
+    text-align: left;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.box-button {
+    font-weight: bold;
+    background-color: #805215;
+    color: white;
+    height: 60px;
+    width: 310px;
+    padding: 0;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    border: solid black 1px;
+    position: absolute;
+    bottom: 20px;
+}
+.learn-more-button {
+    font-weight: bold;
+    background-color: #805215;
+    color: white;
+    height: 60px;
+    width: 1310px;
+    padding: 0;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    border: solid black 1px;
+    position: absolute;
+    bottom: 20px;
 }
